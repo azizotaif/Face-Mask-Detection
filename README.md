@@ -36,6 +36,6 @@ pip install -r yolov7/requirements.txt
 ``` shell
 python ./yolov7/detect.py --source ./yolov7/data/test/images --weight ./runs/train/yolov7x_results8/weights/best.pt --conf 0.26 --name test_images
 ```
-## 🔗 Contact
+## 🔗 Contact me
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaif.abdulaziz@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulazizotaif)
