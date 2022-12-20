@@ -25,6 +25,7 @@ git clone https://github.com/WongKinYiu/yolov7.git
 pip install -r yolov7/requirements.txt
 ```
 -  Run inference script and modify these parameters according to your data
+
 --source : path to image/video
 
 --weight : path to the trained model
